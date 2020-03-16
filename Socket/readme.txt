@@ -1,0 +1,1 @@
+Socket para transmissão de arquivos
