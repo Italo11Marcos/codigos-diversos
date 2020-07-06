@@ -1,1 +1,1 @@
-Confunto de scripts para verificar se determinados perfis de usuários possuem facebook, instagram e twitter
+Conjunto de scripts para verificar se determinados perfis de usuários possuem facebook, instagram e twitter
